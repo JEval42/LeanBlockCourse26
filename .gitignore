@@ -1,3 +1,13 @@
-# Lake
-.lake/
-lake-packages/
+.lake
+.lake-manifest.json
+core
+*.DS_Store
+*.pyc
+*.log
+*.aux
+*.fdb_latexmk
+*.fls
+*.nav
+*.out
+*.snm
+*.toc
